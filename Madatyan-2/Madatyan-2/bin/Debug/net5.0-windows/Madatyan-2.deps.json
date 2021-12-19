@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "Artak02/1.0.0": {
+      "Madatyan02/1.0.0": {
         "runtime": {
-          "Artak02.dll": {}
+          "Madatyan02.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Artak02/1.0.0": {
+    "Madatyan02/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
