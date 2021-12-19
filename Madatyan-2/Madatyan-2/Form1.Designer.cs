@@ -1,5 +1,5 @@
 ﻿
-namespace Artak02
+namespace Madatyan02
 {
     partial class Form1
     {
